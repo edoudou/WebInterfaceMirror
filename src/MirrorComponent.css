@@ -1,0 +1,17 @@
+.MirrorComponent{
+    color : white;
+    position : fixed;
+    border-width: 2px;
+    border-style: solid;
+    border-color:white;
+    border-radius: 10px;
+    padding : 10px;
+}
+
+.title{
+    margin : 10px;
+}
+
+.content{
+    margin : 10px;
+}
